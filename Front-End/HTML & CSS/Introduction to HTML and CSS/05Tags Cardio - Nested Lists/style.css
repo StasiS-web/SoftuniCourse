@@ -1,0 +1,15 @@
+li li {
+    list-style-type: circle;
+}
+
+li li li {
+    list-style-type: inside;
+}
+
+.circle{
+    list-style: circle;
+}
+
+.disc{
+    list-style: disc;
+}

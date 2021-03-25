@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+}
+
+html{
+    font-family: Helvetica, sans-serif;
+    height: 35rem;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    max-width: 15vw;
+    padding: 10px;
+}
+
+section{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+span{
+    display: flex;
+    border: 1px solid black;
+    align-content: baseline;
+    flex-wrap: wrap;
+    align-self: flex-start;
+}
+
+.item1{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container span:nth-child(1){
+    order: 9;
+}
+
+.container span:nth-child(2){
+    order: 2;
+}
+
+.item2{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.item3{
+    width: 50px;
+    height: 50px;  
+     align-items: center;
+     justify-content: center;
+}
+
+.container span:nth-child(3){
+    order: 10;
+}
+
+.item4{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.item5{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container span:nth-child(5){
+    order: 8;
+}
+
+.item6{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container span:nth-child(6){
+    order: 7;
+}
+
+.item7{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container span:nth-child(7){
+    order: 11;
+}
+
+.item8{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container span:nth-child(8){
+    order: 5;
+}
+
+.item9{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container span:nth-child(9){
+    order: 6;
+}
+
+.item10{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container span:nth-child(10){
+    order: 12;
+}
+
+.item11{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container span:nth-child(11){
+    order: 1;
+}
+
+.item12{
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container span:nth-child(12){
+    order: 3;
+}

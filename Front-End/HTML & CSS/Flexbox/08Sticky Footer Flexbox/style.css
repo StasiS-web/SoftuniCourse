@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-color: rgb(238, 238, 238);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    padding: 20px;
+ }
+
+footer{
+    background-color: rgb(102, 102, 102);
+    color: rgb(255, 255, 255);
+    flex-shrink: 0;
+    padding: 20px;
+}
+
+.site-title{
+    text-transform: uppercase;
+    display: flex;
+    border-bottom: 1px solid;
+    padding: 20px;
+}

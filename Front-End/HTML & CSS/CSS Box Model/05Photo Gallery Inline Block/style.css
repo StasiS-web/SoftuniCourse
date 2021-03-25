@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+ }
+
+body {
+ background-color: #ccc;
+ margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+ul li {
+ border: 0.4rem solid black;
+ background-color: white;
+ display: inline-block;
+ max-height: 500px;
+ padding: 10px;
+ margin-bottom: 20px;
+ margin-right: 20px;
+ max-width: 300px;
+ vertical-align: middle;
+}
+
+ul li:nth-child(3n){
+ margin-right: 0;
+}
+
+li, img {
+ width: 100%;
+}
+
+main{
+ max-width: 1000px;
+ margin: 0, auto;
+}

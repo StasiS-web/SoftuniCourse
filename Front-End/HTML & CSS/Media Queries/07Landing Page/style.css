@@ -1,0 +1,239 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+
+.title{
+    color: purple;
+    font-size: 36px;
+    line-height: 80px;
+    padding: 0 100px;
+}
+
+.sub-title{
+    font-size: 18px;
+    padding: 0 100px;
+    margin: 0;
+}
+
+h2{
+    padding: 15px;
+}
+
+.menu{
+  height: 80px;
+  width: 100%;
+}
+
+.menu ul{
+    float: right;
+    margin-right: 20px;
+}
+
+.menu ul li{
+    display: inline;
+    padding: 5px;
+    line-height: 80px;
+    margin: 0 5px;
+}
+
+li {
+    list-style: none;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    display: inline;
+    color: black;
+    padding: 5px 13px;
+    font-size: 17px;
+}
+
+a.active, a:hover{
+    transition: .5s;
+}
+
+.menu-icon{
+    font-size: 30px;
+    color: black;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+}
+
+#check{
+    display: none;
+}
+
+@media (max-width: 900px){
+ .title{
+     font-size: 30px;
+     padding-left: 50px;
+ }
+ .menu ul li a{
+      font-size: 16px;
+ }
+}
+
+@media (max-width: 800px){
+    #check{
+        display: block;
+    }
+    ul {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        top: 80px;
+        left: -100%;
+        text-align: center;
+        transition:all .5s;
+    }
+    .menu ul li{
+        display: block;
+        margin: 50px 0;
+        line-height: 30px;
+    }
+    .menu ul li a{
+            font-size: 20px;
+    }
+    a.active, a:hover{
+        color: black;
+    }
+    #check:checked ~ ul{
+        left: 0;
+    }
+}
+
+.sitemap a{
+    text-decoration: none;
+}
+
+.project-details{
+    float: left;
+    width: 50%;
+    padding-left: 20px;
+}
+
+.sub-bnt{
+    padding-top: 10px;
+}
+
+.fa{
+    width: 100px;
+    height: 100px;
+}
+
+.group{ 
+    line-height: 80px;
+}
+
+.team{
+    width: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.team .card{
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+}
+
+.team .card img {
+    display: inline-flex;
+    margin: 0;
+    width: 33%;
+    text-align: left;
+    float: left;
+    padding: 5px;
+}
+
+.team .card p{
+    display: inline-block;
+}
+
+.sign-up{
+    line-height: 100px;
+    background: purple;
+}
+
+.subcribe{
+    color: white;
+    text-align: center;
+}
+
+.button{
+    width: 100px;
+    height: 20px;
+    border-radius: 3px;
+    background-color: white;
+    color: black;
+}
+
+.form{
+    align-items: center;
+}
+
+.testimonials{
+    width: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.testimonials .card{
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+}
+
+.testimonials .card img{
+    display: inline-flex;
+    margin: 0;
+    width: 33%;
+    text-align: left;
+    float: left;
+    padding: 5px;
+}
+
+.testimonials .card p{
+    display: inline-block;
+}
+
+.company-info{
+    display: inline-flex;
+    justify-content: flex-start;
+    width: 33%;
+}
+
+.sitemap{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 33%;
+}
+
+.contacts{
+    display: inline-flex;
+    justify-content: flex-end;
+    width: 33%;
+}
+
+.footer-title, .info{
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.footer-nav{
+    display: flex;
+    flex-flow: column wrap;
+}

@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    float: right;
+    width: 20%;
+}
+
+.top-navigation{
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+a {
+    color:rgb(0, 102, 0);
+    text-decoration: none;
+}
+
+.link{
+    color: rgb(97, 131, 46);
+}
+
+.main{
+    padding: 5px;
+    display: inline-block;
+}
+
+main, div {
+    width: 70%;
+    display: inline-block;
+}
+
+body {
+    margin: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:  rgb(238, 238, 238);
+}
+
+p {
+    margin: 0;
+}
+
+.paragraph {
+    width: 44%;
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 5px;
+}
+
+.right-paragraph {
+    width: 45%;
+    display: inline-block;
+    padding-left: 50px;
+}
+
+aside, main {
+    display: inline-block;
+}
+
+aside {
+    float: right;
+    width: 5%;
+}
+
+blockquote{
+    font-family:  Georgia, serif;
+     margin: 0;
+     padding-top: 20px;
+     float: right;
+}
+
+.paragraph2 {
+    display: inline-block;
+    padding-left: 750px;
+    margin: 0px;
+    padding-bottom: 10px;
+}
+
+.special-paragraph  {
+    display: inline-block;
+    overflow: hidden;
+    width: 80%;
+    margin: 0;
+    padding-bottom: 15px;
+}
+
+p.site-title {
+    display: inline-block;
+    font-weight: bold;
+}
+
+.site-title{
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: bold;
+}
+
+hr{
+    border-bottom: 2px solid  rgb(108, 112, 116);
+    font-family:  Georgia, serif;
+    font-size: 1em/1.2;
+}
+
+h2{
+    margin-bottom: 0;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    font-family:  Georgia, serif;
+    font-size: 1em/1.2;
+}
+
+.space {
+    padding-top: 20px;
+}
+
+.image1 {
+    background: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.25);
+    width: 17%;
+    float: right;
+    padding: 10px;
+}
+
+.image2 {
+    width: 16%;
+    height: 135px;
+    float: left;
+    padding: 10px;
+}
+
+img {
+    border: 2px solid black;
+    background: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.25);
+}
+
+div.vertical-line{
+    border: 2px inset;
+    border-style: solid rgb(100, 98, 98);
+    width: 0;
+    min-height: 100px; 
+  }
+
+  .sp{
+      padding-left: 10px;
+      display: inline-block;
+  }
+ 
+  
