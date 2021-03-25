@@ -18,5 +18,5 @@ C# Web Developer
      ~ C# WEB BASICS ~ ASP.NET CORE
 
 Specialization C# Full-Stack Developer
-   * Front-End
-     ~ HTML & CSS ~ Front-end Frameworks
+   * Front-End Module
+      ~ HTML & CSS ~ Front-end Frameworks
