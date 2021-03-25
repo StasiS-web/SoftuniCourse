@@ -16,6 +16,7 @@ C# Web Developer
       ~ JS ADVANCED  ~ JS APPLICATIONS
    * C# Web Module
      ~ C# WEB BASICS ~ ASP.NET CORE
+
 Specialization C# Full-Stack Developer
    * Front-End
      ~ HTML & CSS ~ Front-end Frameworks
