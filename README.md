@@ -26,4 +26,4 @@ Professional Modules
 Specialization C# Full-Stack Developer
    * Front-End Module
       • HTML & CSS
-      • Front-end Frameworks 
+      • Front-end Frameworks
