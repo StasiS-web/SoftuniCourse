@@ -1,4 +1,5 @@
 # SoftuniCourse
+ ![SoftUni](https://softuni.bg/trainings/courses)
 
 Contains different problem's solutions from Softwaren University.
 
