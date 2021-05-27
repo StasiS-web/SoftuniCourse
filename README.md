@@ -17,7 +17,7 @@ Professional Modules
       • MS SQL
       • ENTITY FRAMEWORK CORE
    * JS Advanced Module
-      • JS ADVANCED  
+      • JS ADVANCED 
       • JS APPLICATIONS
    * C# Web Module
      • C# WEB BASICS 
