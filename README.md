@@ -7,20 +7,20 @@ The structure is divided into Modules and respective Courses. For more informati
 ## Moduls & Courses
 * Entry Module:  
   • Programming Basic C#
-* Fundamentals Module: 
+* Fundamentals Module:   
   • C# Fundamentals
 * C# Advanced:  
-  • C# OOP
+  • C# OOP         
   • C# ADVANCED 
 * C# DB:  
-  • MS SQL
+  • MS SQL    
   • ENTITY FRAMEWORK CORE
-* JS Advanced Module: 
-  • JS ADVANCED 
+* JS Advanced Module:    
+  • JS ADVANCED   
   • JS APPLICATIONS
 * C# Web Module :       
-  • C# WEB BASICS 
-  • ASP.NET CORE
-* Front-End Module: 
-  • HTML & CSS
+  • C# WEB BASICS        
+  • ASP.NET CORE      
+* Front-End Module:   
+  • HTML & CSS      
   • Front-end Frameworks
