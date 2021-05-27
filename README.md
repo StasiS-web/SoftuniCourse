@@ -9,7 +9,7 @@ Entry Module
    * Programming Basic C#
 Fundamentals Module
    * C# Fundamentals
-C# Web Developer 
+Professional Modules
    * C# Advanced Module
       ~ C# OOP  ~ C# ADVANCED
    * C# DB Module
