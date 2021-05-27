@@ -1,6 +1,5 @@
-# [SoftUni](https://softuni.bg/trainings/courses)Course 
-
-Contains different problem's solutions from Softwaren University.
+# Courses form the professional programme in [SoftUni](https://softuni.bg/trainings/courses)
+<img width="1000" alt="user-softuni githubuserusercontent" src="https://user-images.githubusercontent.com/64635613/119897634-9c857d80-bf38-11eb-8248-2cc0068b5b12.png">
 
 # Structure
 The structure is divided into Modules and respective Courses. For more information check the curriculum at softuni.bg.
