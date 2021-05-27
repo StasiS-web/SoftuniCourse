@@ -11,14 +11,19 @@ Fundamentals Module
    * C# Fundamentals
 Professional Modules
    * C# Advanced Module
-      ~ C# OOP  ~ C# ADVANCED
+      • C# OOP
+      • C# ADVANCED
    * C# DB Module
-      ~ MS SQL  ~ ENTITY FRAMEWORK CORE
+      • MS SQL
+      • ENTITY FRAMEWORK CORE
    * JS Advanced Module
-      ~ JS ADVANCED  ~ JS APPLICATIONS
+      • JS ADVANCED  
+      • JS APPLICATIONS
    * C# Web Module
-     ~ C# WEB BASICS ~ ASP.NET CORE
+     • C# WEB BASICS 
+     • ASP.NET CORE
 
 Specialization C# Full-Stack Developer
    * Front-End Module
-      ~ HTML & CSS ~ Front-end Frameworks 
+      • HTML & CSS
+      • Front-end Frameworks 
