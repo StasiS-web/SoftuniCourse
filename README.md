@@ -5,11 +5,9 @@ Contains different problem's solutions from Softwaren University.
 # Structure
 The structure is divided into Modules and respective Courses. For more information check the curriculum at softuni.bg.
 
-Entry Module
+## Moduls & Courses
    * Programming Basic C#
-Fundamentals Module
    * C# Fundamentals
-Professional Modules
    * C# Advanced Module
       • C# OOP
       • C# ADVANCED
