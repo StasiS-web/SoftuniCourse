@@ -1,4 +1,4 @@
-# SoftuniCourse [SoftUni](https://softuni.bg/trainings/courses)
+# [SoftUni](https://softuni.bg/trainings/courses)Course 
 
 Contains different problem's solutions from Softwaren University.
 
