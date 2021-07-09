@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{5C68C61D-5A09-41D0-9884-2F1124DC3C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{6E4D1A0E-B512-44AF-966D-D138C6E1F107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{8878062B-AC96-4A3F-96E8-9EE89E4C8E66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C68C61D-5A09-41D0-9884-2F1124DC3C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C68C61D-5A09-41D0-9884-2F1124DC3C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C68C61D-5A09-41D0-9884-2F1124DC3C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C68C61D-5A09-41D0-9884-2F1124DC3C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4D1A0E-B512-44AF-966D-D138C6E1F107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4D1A0E-B512-44AF-966D-D138C6E1F107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4D1A0E-B512-44AF-966D-D138C6E1F107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4D1A0E-B512-44AF-966D-D138C6E1F107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8878062B-AC96-4A3F-96E8-9EE89E4C8E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8878062B-AC96-4A3F-96E8-9EE89E4C8E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8878062B-AC96-4A3F-96E8-9EE89E4C8E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8878062B-AC96-4A3F-96E8-9EE89E4C8E66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B2AB2D-F618-4853-B702-A01182B1C6D3}
+	EndGlobalSection
+EndGlobal
