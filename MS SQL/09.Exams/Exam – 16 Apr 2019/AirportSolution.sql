@@ -156,5 +156,4 @@ UPDATE [Flights]
 SET [DepartureTime] = NULL, [ArrivalTime] = NULL
 WHERE [ArrivalTime] > [DepartureTime] 
 
-EXEC usp_CancelFlights 
-
+EXEC usp_CancelFlights
