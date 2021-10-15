@@ -83,3 +83,4 @@ BEGIN
     RETURN DATEDIFF(HOUR, @StartDate, @EndDate)
 END
 GO
+ 
