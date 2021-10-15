@@ -37,4 +37,3 @@ VALUES (1, 'Kevin', 22, 1),
 ---Task 05: Truncate Table Minions
 TRUNCATE TABLE 'Minions'
 	DROP TABLE 'Minions'
-
