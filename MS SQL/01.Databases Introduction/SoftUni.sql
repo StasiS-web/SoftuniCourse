@@ -1,3 +1,4 @@
+---Task 16: Create SoftUni Database
 CREATE DATABASE [SoftUni]
 
 USE [SoftUni]
@@ -31,6 +32,7 @@ CREATE TABLE [Addresses] (
   [AddressId] INT FOREIGN KEY REFERENCES [Addresses]([Id])
   )
   
+  ---Task 18: Basic Insert
   INSERT INTO [Towns] ([Name])
   VALUES ('Sofia'),
   		 ('Plovdiv'),
@@ -81,6 +83,3 @@ ORDER BY [Name]
 
 SELECT [FirstName], [LastName], [JobTitle], [Salary] FROM Employees
 ORDER BY [Salary] DESC 
-
-
-
