@@ -4,7 +4,7 @@ CREATE DATABASE [People]
 USE [People]
 GO
 
---- Create People Table
+--- Task 07: Create People Table
 CREATE TABLE [People](
     [ID] BIGINT PRIMARY KEY IDENTITY,
     [Name] NVARCHAR(200) NOT NULL,
