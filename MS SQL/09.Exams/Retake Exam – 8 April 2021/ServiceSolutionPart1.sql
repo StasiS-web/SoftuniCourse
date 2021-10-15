@@ -73,4 +73,4 @@ WHERE [CloseDate] IS NULL
 ---Task 04: Delete
 DELETE [Reports]
 WHERE [StatusId] = 4
-        
+         
