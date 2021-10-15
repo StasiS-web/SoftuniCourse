@@ -42,3 +42,4 @@ SELECT CONCAT([FirstName], ' ', [MiddleName], ' ', [LastName]) AS [FullName]
 SELECT [FirstName], [LastName]
   FROM [Employees]
  WHERE [ManagerID] IS NULL
+ 
