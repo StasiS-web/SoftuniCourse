@@ -108,7 +108,3 @@ VALUES ('John', NULL),
        ('Ted', 105),
        ('Mark', 101),
        ('Greta', 101)
-
-       
-       
-       
