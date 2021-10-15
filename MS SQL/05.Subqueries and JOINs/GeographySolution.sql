@@ -1,7 +1,7 @@
 USE [Geography]
 GO
 
----Task 12
+---Task 12: Highest Peaks in Bulgaria
 SELECT mc.[CountryCode],
        m.[MountainRange],
        p.[PeakName],
@@ -12,7 +12,7 @@ SELECT mc.[CountryCode],
   WHERE mc.[CountryCode] = 'BG' AND p.[Elevation] > 2835
   ORDER BY p.[Elevation] DESC 
   
----Task 13
+---Task 13: Count Mountain Ranges
 SELECT mc.[CountryCode],
        COUNT(*) AS [MountainRanges]
  FROM [MountainsCountries] AS mc
@@ -20,7 +20,7 @@ SELECT mc.[CountryCode],
 WHERE mc.[CountryCode] = 'BG' OR mc.[CountryCode] = 'RU' OR mc.[CountryCode] = 'US'
 GROUP BY  mc.[CountryCode]
 
----Task 14
+---Task 14: Countries With or Without Rivers
 SELECT TOP(5) c.[CountryName],
               r.[RiverName]
   FROM [Countries] AS c 
@@ -29,7 +29,7 @@ SELECT TOP(5) c.[CountryName],
   WHERE c.[ContinentCode] = 'AF'
   ORDER BY c.[CountryName] ASC 
   
----Task 16 Countries Without Any Mountains
+---Task 16: Countries Without Any Mountains
  SELECT 
          COUNT(*) AS [CountryCode]
   FROM [Countries] AS c 
