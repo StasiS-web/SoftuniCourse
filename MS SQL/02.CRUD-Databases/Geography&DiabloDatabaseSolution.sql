@@ -1,16 +1,16 @@
---- Task 22
+---Task 22: All Mountain Peaks
 USE [Geography]
 GO
 
 SELECT [PeakName] FROM [Peaks]
 ORDER BY [PeakName] ASC 
 
---- Task 23 
+---Task 23: Biggest Countries by Population 
 SELECT TOP(30) [CountryName], [Population] FROM [Countries]
 WHERE [ContinentCode] = 'EU'
 ORDER BY [Population] DESC, [CountryName]
 
---- Task 24
+---Task 24: Countries and Currency (Euro / Not Euro) 
 SELECT [CountryName], [CountryCode],
 (
         CASE 
@@ -21,7 +21,7 @@ SELECT [CountryName], [CountryCode],
 FROM [Countries]
 ORDER BY [CountryName] ASC 
 
---- Task 25
+---Task 25: All Diablo Characters
 USE [Diablo]
 GO
 
