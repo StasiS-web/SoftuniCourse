@@ -74,3 +74,4 @@ WHERE [CloseDate] IS NULL
 DELETE [Reports]
 WHERE [StatusId] = 4
          
+ 
