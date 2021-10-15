@@ -57,12 +57,12 @@ CREATE TABLE [Addresses] (
   		 ('Georgi', 'Teziev', 'Ivanov', 'CEO', 2, '2007-12-09', 3000.00, 1),
   		 ('Peter', 'Pan', 'Pan', 'Intern', 3, '2016-08-28', 599.88, 4)
 
---- Select All Fields
+---Task 19: Basic Select All Fields
 SELECT * FROM Towns
 SELECT * FROM Departments
 SELECT * FROM Employees 
 
---- Select All Fields and Order Them
+---Task 20: Basic Select All Fields and Order Them
 SELECT * FROM Towns
 ORDER BY [Name] 
 
@@ -72,7 +72,7 @@ ORDER BY [Name]
 SELECT * FROM Employees 
 ORDER BY [Salary] DESC
 
---- Select Some Fields
+---Task 21: Basic Select Some Fields
 SELECT [Name] FROM Towns 
 ORDER BY [Name] 
 
