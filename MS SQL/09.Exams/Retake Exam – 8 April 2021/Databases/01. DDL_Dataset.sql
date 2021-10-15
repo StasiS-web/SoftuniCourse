@@ -180,3 +180,4 @@ INSERT INTO Reports(Id,CategoryId,StatusId, OpenDate, CloseDate,Description,User
 (38, 7, 2, '2016-02-27', NULL, 'Lonely child on corner of Str.3 and Str.30', 16, NULL),
 (39, 9, 1, '2016-02-11', NULL, 'Glass Bottles for recycling on Str.116', 10, NULL),
 (40, 7, 1, '2015-11-05', NULL, 'Lonely child on corner of Str.1 and Str.19', 7, 25);
+ 
