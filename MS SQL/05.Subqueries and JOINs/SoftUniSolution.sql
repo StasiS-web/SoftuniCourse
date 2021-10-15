@@ -1,7 +1,7 @@
 USE [SoftUni]
 GO
 
----Task 01
+---Task 01: Employee Address
 SELECT TOP(5) e.[EmployeeID],
               e.[JobTitle],
               e.[AddressID],
@@ -11,7 +11,7 @@ SELECT TOP(5) e.[EmployeeID],
            ON e.[AddressID] = a.[AddressID]
         ORDER BY [AddressID]
 
----Task 02
+---Task 02: Addresses with Towns
 SELECT TOP(50) e.[FirstName], 
                e.[LastName],
                t.[Name] AS [Town],
@@ -23,7 +23,7 @@ SELECT TOP(50) e.[FirstName],
            ON a.[TownID] = t.[TownID] 
         ORDER BY e.[FirstName], e.[LastName]
  
----Task 03
+---Task 03: Sales Employees
 SELECT e.[EmployeeID],
        e.[FirstName],
        e.[LastName],
@@ -34,7 +34,7 @@ SELECT e.[EmployeeID],
  WHERE d.[Name] = 'Sales'
  ORDER BY e.[EmployeeID]
  
----Task 04
+---Task 04: Employee Departments
 SELECT TOP(5) e.[EmployeeID],
               e.[FirstName],
               e.[Salary],
@@ -45,7 +45,7 @@ SELECT TOP(5) e.[EmployeeID],
         WHERE e.[Salary] > 15000
         ORDER BY e.[DepartmentID] ASC
 
----Task 05
+---Task 05: Employees Without Projects
 SELECT TOP(3) e.[EmployeeID],
               e.[FirstName]
          FROM [Employees] AS e
@@ -54,7 +54,7 @@ SELECT TOP(3) e.[EmployeeID],
         WHERE ep.[EmployeeID] IS NULL 
         ORDER BY e.[EmployeeID]
         
----Task 06
+---Task 06: Employees Hired After
 SELECT e.[FirstName],
        e.[LastName],
        e.[HireDate],
@@ -65,7 +65,7 @@ SELECT e.[FirstName],
 WHERE [HireDate] > '1999-01-01' AND (d.[Name] = 'Sales' OR d.[Name] = 'Finance')
 ORDER BY e.[HireDate] ASC 
   
---- Task 09
+---Task 09: Employee Manager
 SELECT e.[EmployeeID],
        e.[FirstName],
        e.[ManagerID],
@@ -75,7 +75,7 @@ SELECT e.[EmployeeID],
   WHERE e.[ManagerID] = 3 OR e.[ManagerID] = 7
   ORDER BY e.[EmployeeID]
   
---- Task 10
+---Task 10: Employees Summary
 SELECT TOP(50) e.[EmployeeID],
                CONCAT(e.[FirstName], ' ', e.[LastName]) AS [EmployeeName],
                CONCAT(ee.[FirstName], ' ', ee.[LastName]) AS [ManagerName],
@@ -85,7 +85,7 @@ SELECT TOP(50) e.[EmployeeID],
          INNER JOIN [Departments] AS d ON e.[DepartmentID] = d.[DepartmentID]    
          ORDER BY e.[EmployeeID]
  
---- Task 11
+---Task 11: Min Average Salary
 SELECT TOP(1)
       AVG(e.[Salary]) AS [MinAverageSalary]
 FROM [Employees] AS e 
