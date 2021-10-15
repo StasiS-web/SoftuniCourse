@@ -572,3 +572,4 @@ INSERT INTO Tickets(Id, PassengerId, FlightId, LuggageId, Price) VALUES
 (100, 90, 62, 40, 141.96)
 
  SET IDENTITY_INSERT [dbo].Tickets OFF;
+ 
