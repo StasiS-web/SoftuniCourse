@@ -135,4 +135,4 @@ LEFT JOIN [Subjects] sb ON  sb.[Id] = ss.[SubjectId]
  INNER JOIN [StudentsSubjects] ss ON sb.[Id] = ss.[SubjectId]
  GROUP BY sb.[Name], sb.[Id]
  ORDER BY sb.[Id]
- 
+  
