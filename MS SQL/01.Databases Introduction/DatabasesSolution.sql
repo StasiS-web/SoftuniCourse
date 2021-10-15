@@ -1,6 +1,6 @@
 CREATE DATABASE [Databases]
 
---- Task 14: Car Rental Database
+---Task 14: Car Rental Database
 CREATE TABLE [Categories] (
     [Id] INT PRIMARY KEY IDENTITY, 
     [CategoryName] NVARCHAR(50) NOT NULL, 
