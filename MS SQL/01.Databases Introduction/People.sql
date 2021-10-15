@@ -4,7 +4,7 @@ CREATE DATABASE [People]
 USE [People]
 GO
 
---- Task 07: Create People Table
+---Task 07: Create People Table
 CREATE TABLE [People](
     [ID] BIGINT PRIMARY KEY IDENTITY,
     [Name] NVARCHAR(200) NOT NULL,
@@ -23,7 +23,7 @@ VALUES ('John Smith', 'm', GETDATE(), 'Driver'),
        ('Sue Clark','f', GETDATE(), 'Doctor'),
        ('Ann Pavlova', 'f', GETDATE(), 'Worker')
 
---- Create Users Table
+---Task 08: Create Users Table
 CREATE TABLE [Users](
     [ID] BIGINT PRIMARY KEY IDENTITY,
     [Username] VARCHAR(30) UNIQUE NOT NULL,
@@ -46,7 +46,7 @@ DROP CONSTRAINT [PK_Users_3214EC274AC232D3]
    ALTER TABLE [Users]
 ADD CONSTRAINT [PK_UsersCompositeIDUsername] PRIMARY KEY ([ID], [Username])
 
---- Create Movies Database
+---Task13: Movies Database
 CREATE TABLE [Directors](
     [ID] INT PRIMARY KEY IDENTITY,
     [DirectorName] NVARCHAR(50) NOT NULL,
