@@ -32,7 +32,7 @@ INNER JOIN [Categories] c ON r.[CategoryId] = c.[Id]
       WHERE MONTH(u.[Birthdate]) = MONTH(r.[OpenDate]) AND 
             DAY(u.[Birthdate]) = DAY(r.[OpenDate])
    ORDER BY u.[Username], [GategoryName]
-   
+    
    ---Task 09: User per Employee
       SELECT CONCAT(e.[FirstName], ' ', e.[LastName]) AS [FullName],
              COUNT(r.[UserId]) AS [UsersCount]
