@@ -19,3 +19,4 @@
     <ProjectReference Include="..\P01_StudentSystem.Data.Models\P01_StudentSystem.Data.Models.csproj" />
   </ItemGroup>
 </Project>
+ 
