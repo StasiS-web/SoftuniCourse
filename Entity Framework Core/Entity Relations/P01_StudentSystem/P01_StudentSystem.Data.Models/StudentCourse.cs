@@ -13,4 +13,4 @@ namespace P01_StudentSystem.Data.Models
         public Course Course { get; set; }
 
     }
-}
+} 
