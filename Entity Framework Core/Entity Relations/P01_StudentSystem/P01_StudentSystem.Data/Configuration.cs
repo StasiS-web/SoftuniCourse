@@ -4,4 +4,4 @@
     {
         public const string CONNECTION_STRING = @"Server=.;Database=StudentSystem;Integrated Security=True;";
     }
-}
+} 
