@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace _01ReverseStrings
+namespace _01ReverseStringsSolution1
 {
     class Program
     {
