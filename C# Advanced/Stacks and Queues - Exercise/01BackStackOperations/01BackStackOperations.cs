@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace _01BackStackOperations
 {
-    class BackStackOperations
+    class _01BackStackOperations
     {
         static void Main(string[] args)
         {
