@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.Collections;
 
 namespace _01ReverseStringsSolution2
 {
-    class Program
+    class ReverseStringsSolution2
     {
         public static void Main()
         {
