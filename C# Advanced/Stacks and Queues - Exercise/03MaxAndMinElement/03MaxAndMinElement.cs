@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace _03MaxAndMinElement
 {
-    class Program
+    class MaxAndMinElement
     {
         static void Main(string[] args)
         {
