@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace _04FastFood
 {
-    class Program
+    class FastFood
     {
         static void Main(string[] args)
         {
