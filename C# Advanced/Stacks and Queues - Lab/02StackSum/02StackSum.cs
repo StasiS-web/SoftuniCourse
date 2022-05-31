@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace _02StackSum
 {
-    class Program
+    class StackSum
     {
         static void Main(string[] args)
         {
