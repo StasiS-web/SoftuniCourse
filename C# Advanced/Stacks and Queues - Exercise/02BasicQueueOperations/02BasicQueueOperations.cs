@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace _02BasicQueueOperations
 {
-    class _02BasicQueueOperations
+    class BasicQueueOperations
     {
         static void Main(string[] args)
         {
