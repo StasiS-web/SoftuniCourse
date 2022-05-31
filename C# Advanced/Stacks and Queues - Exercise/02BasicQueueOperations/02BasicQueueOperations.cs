@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace _02BasicQueueOperations
 {
-    class Program
+    class BasicQueueOperations
     {
         static void Main(string[] args)
         {
