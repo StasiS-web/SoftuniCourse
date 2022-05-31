@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace _06Supermarket
 {
-    class Program
+    class Supermarket
     {
         static void Main(string[] args)
         {
