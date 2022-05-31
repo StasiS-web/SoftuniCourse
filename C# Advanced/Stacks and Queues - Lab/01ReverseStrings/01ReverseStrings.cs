@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace _01ReverseStringsSolution1
 {
-    class Program
+    class ReverseStringsSolution1
     {
         static void Main(string[] args)
         {
