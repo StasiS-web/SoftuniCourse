@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace _01BackStackOperations
 {
-    class Program
+    class BackStackOperations
     {
         static void Main(string[] args)
         {
