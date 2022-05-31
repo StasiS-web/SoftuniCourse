@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace _05FashionBoutique
 {
-    class Program
+    class FashionBoutique
     {
         static void Main(string[] args)
         {
