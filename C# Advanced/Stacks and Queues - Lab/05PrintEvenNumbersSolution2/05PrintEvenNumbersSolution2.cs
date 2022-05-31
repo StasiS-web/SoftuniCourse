@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace _05PrintEvenNumbers
 {
-    class Program
+    class PrintEvenNumbersSolution2
     {
         static void Main(string[] args)
         {
