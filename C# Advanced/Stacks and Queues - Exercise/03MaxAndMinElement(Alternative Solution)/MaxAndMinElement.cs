@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace _03MaxAndMinElement
 {
-    public class Program
+    public class MaxAndMinElement
     {
         static void Main(string[] args)
         {
