@@ -1,0 +1,14 @@
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.exe
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.deps.json
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.json
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.dev.json
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.dll
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.AssemblyReference.cache
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfo.cs
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.dll
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.pdb
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.genruntimeconfig.cache

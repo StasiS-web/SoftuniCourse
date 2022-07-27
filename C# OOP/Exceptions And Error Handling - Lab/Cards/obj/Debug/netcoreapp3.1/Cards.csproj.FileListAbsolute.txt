@@ -1,0 +1,14 @@
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\bin\Debug\netcoreapp3.1\Cards.exe
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\bin\Debug\netcoreapp3.1\Cards.deps.json
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.json
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.dev.json
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\bin\Debug\netcoreapp3.1\Cards.dll
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\bin\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.AssemblyReference.cache
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\obj\Debug\netcoreapp3.1\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfoInputs.cache
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfo.cs
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.CoreCompileInputs.cache
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\obj\Debug\netcoreapp3.1\Cards.dll
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\obj\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\Stanislava Stoeva\Documents\Csharp Advanced Module\Csharp OOP\ExceptionsAndErrorHandling\Cards\obj\Debug\netcoreapp3.1\Cards.genruntimeconfig.cache
