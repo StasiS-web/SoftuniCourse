@@ -7,11 +7,8 @@ namespace Vehicles
     {
         static void Main(string[] args)
         {
-            string carInput = Console.ReadLine();
-            string truckInput = Console.ReadLine();
-
-            string[] carInfo = carInput.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-            string[] truckInfo = truckInput.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+            string[] carInfo = Console.ReadLine().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+            string[] truckInfo = Console.ReadLine().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
             
             var car = CreateVehicle(carInfo);
             var truck = CreateVehicle(truckInfo);
