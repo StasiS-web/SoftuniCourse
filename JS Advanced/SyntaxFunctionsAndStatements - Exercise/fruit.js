@@ -1,7 +1,6 @@
 'use strict'
 
-function fruit(fruit, grams, price)
-{
+function fruit(fruit, grams, price) {
     let weight = grams / 1000;
     let money = weight * price;
     
