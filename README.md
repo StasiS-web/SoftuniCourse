@@ -16,11 +16,11 @@ The structure is divided into Modules and respective Courses. For more informati
   • MS SQL    
   • Entity Framework Core
 * JS Advanced Module:    
-  • JS Advanced 
+  • JS Advanced                                                                                                                                                            
   • JS Applications
 * C# Web Module :       
   • C# Web Basic        
-  • ASP.NET CORE      
+  • ASP.NET Core      
 * Front-End Module:   
   • HTML & CSS      
   • Front-end Frameworks
