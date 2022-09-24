@@ -19,7 +19,7 @@ The structure is divided into Modules and respective Courses. For more informati
   • JS Advanced 
   • JS Applications
 * C# Web Module :       
-  • C# WEB BASICS        
+  • C# Web Basic        
   • ASP.NET CORE      
 * Front-End Module:   
   • HTML & CSS      
