@@ -11,10 +11,10 @@ The structure is divided into Modules and respective Courses. For more informati
   • C# Fundamentals
 * C# Advanced:  
   • C# OOP         
-  • C# ADVANCED 
+  • C# Advanced
 * C# DB:  
   • MS SQL    
-  • ENTITY FRAMEWORK CORE
+  • Entity Framework Core
 * JS Advanced Module:    
   • JS Advanced 
   • JS Applications
