@@ -1,3 +1,28 @@
+// This method makes loading of the products in the store
+vegetables.forEach(product => { // for each element in the array contains information about vegetable 
+    let [type, quantity, price] = product.split(" ");   // separate the products info by space
+    quantity = Number(quantity); // using in several places so requires to be parsed as Number
+    price = Number(price); // requires to be parsed as Number
+
+    let currVegies = this.availableProducts.find(v => v.type === type); // find current vegetable 
+
+    // check if already exists in the availableProducts array
+    if (!currVegies) { // if does not exist add the vegetable with its info
+         this.availableProducts.push({
+              type,
+              quantity,
+              price
+         });
+     }
+     else {  // if already present in the array add the new quantity to the old one and update the old price 
+          currVegies.quantity += quantity;
+                
+          if(currVegies.price < price) { 
+              currVegies.price = price;
+          }
+    }
+});
+
 // 1. export one or multiple objects
 
 module.exports = Cat;
