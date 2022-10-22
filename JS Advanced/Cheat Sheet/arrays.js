@@ -17,7 +17,9 @@ console.log(sum);
 // Map method to map each element in array to something else (strings or objects)
 const num = [1, -1, 2, 3];
 const filtered = num.filter(n => n >= 0);
-const items = filtered.map(n => '<li>' + n + '</li>');   // map to a string
+
+// mapping to a string
+const items = filtered.map(n => '<li>' + n + '</li>');  
 const html = '<ul>' + items.join('') + '</ul>';    // join elements to create a string               
 console.log(html);
 
@@ -27,6 +29,16 @@ const items = filtered.map(n => {
     return obj;
 }); 
 console.log(items);
+
+// map to an object refactoring code
+const items = filtered.map(n => ({ value: n }));
+
+// channing method with refactored code for mapping to an object
+const items = num
+  .filter(n => n >= 0)
+  .map(n => ({ value: n }))  // output: get 3 objects with value
+  .filter(obj => obj.value > 1)  // output:get 2 objects in an array
+  .map(obj => obj.value);  // output: array of 2 numbers
 
 // 2. shift() method removes the first element from an array and returns that removed element. 
 // This method changes the length of the array. shift() method removes the element at the zeroth index 
