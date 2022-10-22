@@ -1,16 +1,32 @@
-// 1. sort() method sorts the elements of an array in place and returns 
-// the reference to the same array, now sorted. The default sort order is ascending, 
-// built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values.
+// Array reduce
+const numbers = [1, -1, 2, 3]; // loop through the array
+// a = 0 , c = 1 => 1
+// a = 1 , c = -1 => 0
+// a = 0 , c = 2 => 2
+// a = 2 , c = 3 => 5
+// accumulator is like sum something that initialize of all the numbers in the array a
+// in each call currentValue will coresponde to one of the numbers in the array
+const sum = numbers.reduce((accumulator, currentValue) => {  // call back function executed multiple times
+   return accumulator + currentValue;
+}, 0);  // zero is initial value for accumulator
 
-const months = ['March', 'Jan', 'Feb', 'Dec'];
-months.sort();
-console.log(months);
-// expected output: Array ["Dec", "Feb", "Jan", "March"]
+// the upper reduce code is equals to the code below
+const sum = numbers.reduce((accumulator, currentValue) => accumulator + currentValue);
+console.log(sum);
 
-const numbers2 = [4, 2, 5, 1, 3];
-numbers2.sort((a, b) => a - b);
-console.log(numbers2);
-// expected output: [1, 2, 3, 4, 5]
+// Map method to map each element in array to something else (strings or objects)
+const num = [1, -1, 2, 3];
+const filtered = num.filter(n => n >= 0);
+const items = filtered.map(n => '<li>' + n + '</li>');   // map to a string
+const html = '<ul>' + items.join('') + '</ul>';    // join elements to create a string               
+console.log(html);
+
+// map to an object
+const items = filtered.map(n => {
+    const obj = { value: n };
+    return obj;
+}); 
+console.log(items);
 
 // 2. shift() method removes the first element from an array and returns that removed element. 
 // This method changes the length of the array. shift() method removes the element at the zeroth index 
