@@ -52,3 +52,17 @@ names.sort(function(a,b){
     console.log(a,b);
     return a.length - b.length;
 });
+
+// 1. sort() method sorts the elements of an array in place and returns 
+// the reference to the same array, now sorted. The default sort order is ascending, 
+// built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values.
+
+const months = ['March', 'Jan', 'Feb', 'Dec'];
+months.sort();
+console.log(months);
+// expected output: Array ["Dec", "Feb", "Jan", "March"]
+
+const numbers2 = [4, 2, 5, 1, 3];
+numbers2.sort((a, b) => a - b);
+console.log(numbers2);
+// expected output: [1, 2, 3, 4, 5]
