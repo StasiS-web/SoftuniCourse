@@ -1,0 +1,34 @@
+// various ways to clone an object
+
+const circle = {
+    radius: 1;
+    draw() {
+      console.log('draw');
+    }
+};
+
+// Option 1
+// const another = {};
+// for (let key iin circle) {
+//    another[key] = circle[key];
+// }
+
+// Option 2
+// clone the existing object
+const another = Object.assign({}, circle);
+
+// Option 3: clone the existing object 
+// Object.assign() copies the properties and methods from one or more source objects into target object
+// It can be used to clone an object or combine objects
+const another = Object.assign({}, circle);
+
+// clone the existing object and add color to it
+const another = Object.assign({
+    color: 'yellow'
+}, circle);
+
+// Option 4: spread operator which is a three dots 
+// simplest way to clone an object: getting all properties and methods and put them in another object
+const another = { ...circle };
+
+console.log(another);
