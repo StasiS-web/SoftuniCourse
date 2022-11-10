@@ -27,9 +27,9 @@ The structure is divided into Modules and respective Courses. For more informati
   
   ## Useful Links
  
- * <a href="https://learn.microsoft.com/en-us/docs/">Microsoft Documentation</a>
- * <a href="https://stackoverflow.com/">Stack Overflow</a>
- * <a href="https://www.postman.com/">Postman</a> 
- * <a href="https://www.chaijs.com/">Chai</a>
- * <a href="https://mochajs.org/">Mochha</a> 
- * <a href="https://playwright.dev/">Playwright</a>
+ * [Microsoft Documentation](https://learn.microsoft.com/en-us/docs/)
+ * [Stack Overflow](https://stackoverflow.com/)
+ * [Postman](https://www.postman.com/)
+ * [Chai](https://www.chaijs.com/)
+ * [Mochha](https://mochajs.org/)
+ * [Playwright](https://playwright.dev/)
