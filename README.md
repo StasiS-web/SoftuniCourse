@@ -24,3 +24,12 @@ The structure is divided into Modules and respective Courses. For more informati
 * Front-End Module:   
   • HTML & CSS      
   • Front-end Frameworks
+  
+  ## Useful Links
+ 
+ * <a href="https://learn.microsoft.com/en-us/docs/">Microsoft Documentation</a>
+ * <a href="https://stackoverflow.com/">Stack Overflow</a>
+ * <a href="https://www.postman.com/">Postman</a> 
+ * <a href="https://www.chaijs.com/">Chai</a>
+ * <a href="https://mochajs.org/">Mochha</a> 
+ * <a href="https://playwright.dev/">Playwright</a>
