@@ -33,3 +33,4 @@ The structure is divided into Modules and respective Courses. For more informati
  * [Chai](https://www.chaijs.com/)
  * [Mochha](https://mochajs.org/)
  * [Playwright](https://playwright.dev/)
+ * [Emmet Documentation](https://docs.emmet.io/cheat-sheet/)
