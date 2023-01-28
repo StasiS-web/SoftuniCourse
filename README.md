@@ -32,8 +32,8 @@ The structure is divided into Modules and respective Courses. For more informati
  * [Postman](https://www.postman.com/)
  * [Playwright](https://playwright.dev/)
  * [Stack Overflow](https://stackoverflow.com/)
- * [CSS Support features](https://caniuse.com/)
  * [CDN Libraries](https://cdnjs.com/libraries)
+ * [CSS Support features](https://caniuse.com/)
  * [Emmet Documentation](https://docs.emmet.io/cheat-sheet/)
  * [Microsoft Documentation](https://learn.microsoft.com/en-us/docs/)
  
