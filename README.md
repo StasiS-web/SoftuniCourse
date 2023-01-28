@@ -26,11 +26,14 @@ The structure is divided into Modules and respective Courses. For more informati
   • Front-end Frameworks
   
   ## Useful Links
- 
- * [Microsoft Documentation](https://learn.microsoft.com/en-us/docs/)
- * [Stack Overflow](https://stackoverflow.com/)
- * [Postman](https://www.postman.com/)
- * [Chai](https://www.chaijs.com/)
+  
  * [Mochha](https://mochajs.org/)
+ * [Chai](https://www.chaijs.com/)
+ * [Postman](https://www.postman.com/)
  * [Playwright](https://playwright.dev/)
+ * [Stack Overflow](https://stackoverflow.com/)
+ * [CSS Support features](https://caniuse.com/)
+ * [CDN Libraries](https://cdnjs.com/libraries)
  * [Emmet Documentation](https://docs.emmet.io/cheat-sheet/)
+ * [Microsoft Documentation](https://learn.microsoft.com/en-us/docs/)
+ 
