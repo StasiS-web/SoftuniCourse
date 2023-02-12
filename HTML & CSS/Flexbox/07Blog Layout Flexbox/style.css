@@ -1,0 +1,122 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    display: flex;
+}
+
+body{
+    margin: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:  rgb(238, 238, 238);
+}
+
+img{ 
+    background-color:  rgb(255, 255, 255);
+}
+
+blockquote{
+    font-family: Georgia, serif;
+}
+
+.page{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1320px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 153, 0);
+}
+
+h1, h2{
+    font-family: Georgia, serif;
+}
+
+.paragraph {
+    width: 450px;
+    vertical-align: middle;
+    padding-top: 10px;
+}
+
+.right-paragraph {
+    width: 600px;
+    flex-wrap: nowrap;
+    padding-left: 90px;
+}
+
+.paragraph2 {
+    width: 900px;
+    padding-left: 750px;
+    margin: 0px;
+    padding-bottom: 10px;
+}
+
+.special-paragraph  {
+    overflow: hidden;
+    width: 70%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+p.site-title {
+    display: flex;
+    transform-style: uppercase;
+}
+
+.site-title{
+    text-transform: uppercase;
+    display: flex;
+    font-weight: bold;
+}
+
+.space {
+    margin-top: 20px;
+    width: 90%;
+}
+
+.image1 {
+    width: 20%;
+    float: right;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.image2 {
+    width: 20%;
+    float: left;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+img {
+    background: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.25);
+}
+
+div.vertical-line{
+    width: 3px;
+    min-height: 100px; 
+    border: 2px inset;
+    border-style: solid rgb(100, 98, 98);
+    width: 0;
+    flex-wrap: nowrap;
+  }
+  
+
+  .aside {
+     display: flex;
+     justify-content: flex;
+      width: 350px;
+      align-items: stretch;
+      padding-left: 5px;
+  }
+
+  .sp{
+    padding-left: 10px;
+    display: flex;
+}
