@@ -5,27 +5,19 @@
 The structure is divided into Modules and respective Courses. For more information check the curriculum at softuni.bg.
 
 ## Moduls & Courses
-* Entry Module:  
-  • Programming Basic C#
-* Fundamentals Module:   
-  • C# Fundamentals
-* C# Advanced:  
-  • C# OOP         
-  • C# Advanced
-* C# DB:  
-  • MS SQL    
-  • Entity Framework Core
-* JS Advanced Module:    
-  • JS Advanced                                                                                                                                                            
-  • JS Applications
-* C# Web Module :       
-  • C# Web Basic        
-  • ASP.NET Core      
-* Front-End Module:   
-  • HTML & CSS      
-  • Front-end Frameworks
+*  Programming Basic C#
+*  C# Fundamentals
+*  C# OOP         
+* C# Advanced
+* C# DB: MS SQL    
+* C# DB: Entity Framework Core
+* JS Advanced                                                                                                                                                            * * JS Applications
+* C# Web Basic        
+* ASP.NET Core      
+* HTML & CSS      
+* ReactJS
   
-  ## Useful Links
+## Useful Links
   
  * [Mochha](https://mochajs.org/)
  * [Chai](https://www.chaijs.com/)
