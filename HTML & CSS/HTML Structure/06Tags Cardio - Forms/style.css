@@ -1,0 +1,43 @@
+.form-element {
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+}
+
+label, input {
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+    display: inline-block;
+    text-align: right;
+}
+
+.block-label {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+#gender {
+word-spacing: 3px;
+}
+
+.label.text {
+    text-transform: capitalize;
+}
+
+option {
+    text-transform: capitalize;
+}
+
+textarea {
+    padding: 10px;
+    line-height: 1.5;
+}
+
+.button {
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+
