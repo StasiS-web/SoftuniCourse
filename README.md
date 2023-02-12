@@ -11,7 +11,8 @@ The structure is divided into Modules and respective Courses. For more informati
 * C# Advanced
 * C# DB: MS SQL    
 * C# DB: Entity Framework Core
-* JS Advanced                                                                                                                                                            * * JS Applications
+* JS Advanced
+* JS Applications
 * C# Web Basic        
 * ASP.NET Core      
 * HTML & CSS      
