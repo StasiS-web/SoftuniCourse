@@ -1,0 +1,81 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 20px;
+    display: block;
+}
+
+label {
+    padding-right: 10px;
+    display: inline-block;
+    text-align: right;
+}
+
+.label-text{
+    padding: 50px;
+}
+
+
+p{
+    padding-left: 10px;
+    display: inline;
+}
+
+input{
+    border: 1px transparent;
+    border-radius: 3px;
+    padding: 0;
+    margin: 0;
+    display: inline;
+}
+
+.form-element {
+    padding-top: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    padding-bottom: 5px;
+}
+
+.title{
+    border: 1px solid;
+    background-color: lightgrey;
+    padding: 5px;
+    width: 120px;
+    height: 25px;
+    border-radius: 3px;
+}
+
+.fieldset{
+    border-radius: 3px;
+    background-color: lightgrey;
+    padding: 15px;
+    width: 290px;
+    height: 150px;
+}
+
+p, i {
+    padding-left: 5px;
+    display: inline;
+}
+
+.button {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: black;
+    color: white;
+    padding: 4px;
+}
+
+div{
+    padding-top: 15px;
+}
+
+.fa{
+    background-color: white;
+}
