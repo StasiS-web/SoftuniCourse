@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.page-container {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+header h1 {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+ }
+
+ nav {
+  display: inline-block;
+ }
+
+ nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+ }
+
+ nav a {
+  text-decoration: none;
+  color: lightgreen;
+ }
