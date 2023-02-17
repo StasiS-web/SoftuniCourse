@@ -29,5 +29,6 @@ The structure is divided into Modules and respective Courses. For more informati
  * [Postman](https://www.postman.com/)
  * [Playwright](https://playwright.dev/)
  * [CSS Support features](https://caniuse.com/)
+ * [Mdn web docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
  * [Microsoft Documentation](https://learn.microsoft.com/en-us/docs/)
  
